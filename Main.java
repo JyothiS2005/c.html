@@ -53,4 +53,4 @@ public class Main {
         // Simulate push to main branch
         System.out.println("Rectangle program pushed to main branch.");
     }
-}
+}      
